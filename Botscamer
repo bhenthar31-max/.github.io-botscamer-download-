@@ -1,0 +1,61 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Download BOTSCAMER</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b0f1a;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .card {
+      background: #111827;
+      padding: 30px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      max-width: 350px;
+    }
+    img {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 14px;
+      color: #9ca3af;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      border-radius: 10px;
+      background: linear-gradient(90deg,#00f0ff,#00ff9d);
+      color: black;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="icon.png" alt="BOTSCAMER" />
+    <h1>BOTSCAMER</h1>
+    <p>Scan dokumen dengan kualitas tinggi seperti scanner profesional</p><!-- GANTI LINK DI BAWAH DENGAN LINK GOOGLE DRIVE APK -->
+<a class="btn" href="LINK_APK_KAMU" download>
+  Download APK
+</a>
+
+<p style="margin-top:15px;font-size:12px;">Versi 1.0 • Gratis</p>
+
+  </div>
+</body>
+</html>
